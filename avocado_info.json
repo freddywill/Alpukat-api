@@ -1,0 +1,27 @@
+{
+    "Alpukat_Aligator": {
+        "description": "Alpukat Aligator memiliki kulit tebal dan kasar dengan daging buah yang lembut dan rasa yang sedikit manis.",
+        "origin": "Mexico",
+        "benefits": "Mengandung banyak lemak sehat, vitamin E, dan serat. Baik untuk kesehatan jantung."
+    },
+    "Alpukat_Kendil": {
+        "description": "Alpukat Kendil memiliki kulit hijau cerah dengan daging buah yang lembut dan rasa yang kaya.",
+        "origin": "Indonesia",
+        "benefits": "Kaya akan potasium dan asam folat, yang penting untuk sistem pencernaan dan kesehatan ibu hamil."
+    },
+    "Alpukat_Madu": {
+        "description": "Alpukat Madu dikenal dengan rasa manisnya dan tekstur yang sangat lembut. Dagingnya memiliki warna kuning keemasan.",
+        "origin": "Mexico",
+        "benefits": "Sumber antioksidan, baik untuk kulit, serta dapat membantu mengurangi kolesterol jahat."
+    },
+    "Alpukat_SW01": {
+        "description": "Alpukat SW01 adalah varietas dengan ukuran besar dan kulit yang tipis, daging buahnya lembut dan rasanya sedikit lebih gurih.",
+        "origin": "Indonesia",
+        "benefits": "Tinggi serat dan nutrisi, baik untuk mengatur kadar gula darah dan mendukung metabolisme tubuh."
+    },
+    "Alpukat_Super": {
+        "description": "Alpukat Super memiliki ukuran yang sangat besar dengan daging yang lembut dan rasa yang sangat kaya serta sedikit manis.",
+        "origin": "California, USA",
+        "benefits": "Mengandung banyak vitamin C, K, dan B6. Baik untuk meningkatkan sistem kekebalan tubuh dan kulit sehat."
+    }
+}
