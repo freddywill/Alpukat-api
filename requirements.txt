@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+tensorflow # or tflite_runtime if using the smaller package
+Pillow
+numpy
