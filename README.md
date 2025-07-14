@@ -115,7 +115,3 @@ Jika terjadi kesalahan saat memuat model, pastikan bahwa file model dan label be
 ## Lisensi
 
 Aplikasi ini menggunakan lisensi MIT. Anda dapat menggunakannya, memodifikasinya, dan mendistribusikannya sesuai kebutuhan.
-
----
-
-Dengan **README.md** ini, Anda sudah dapat menyiapkan dan mendeploy aplikasi ke **Render.com**. Jika ada pertanyaan lebih lanjut atau kesulitan saat deployment, jangan ragu untuk bertanya!
